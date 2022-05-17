@@ -9,6 +9,15 @@ I have a few favourite animals
 3. Penguin
 4. Bearded dragons
 5. Eagles
+=======
+Bearded Dragon
+
+Dog
+
+A Cat
+
+dolphin
+
 
 
 
